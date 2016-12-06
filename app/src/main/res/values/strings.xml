@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Informative Quiz of Bicol University</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="lorem_ipsum">\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam quis eros porttitor, maximus enim vel, posuere arcu. Vivamus in porta nisl, eget blandit felis. Quisque eu arcu sed tellus semper accumsan. Suspendisse mollis elementum blandit. Nullam erat quam, viverra maximus mollis sed, viverra sit amet ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sed tellus tempus, posuere eros id, imperdiet diam. Nulla dictum felis a purus eleifend hendrerit. Nulla at est diam. Maecenas iaculis iaculis erat, at efficitur lorem mattis nec. Integer cursus augue vel arcu fermentum lobortis. Fusce tortor eros, porttitor non quam eu, ultricies molestie urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce condimentum mollis erat, sit amet sagittis nibh suscipit iaculis. Vestibulum eu est ac nisl commodo dignissim.\n\n
+\tAliquam aliquam posuere nibh sed consequat. Quisque sed mollis lorem, sed pretium est. Sed sollicitudin urna sed purus vestibulum tristique sed vel tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean bibendum convallis augue nec laoreet. Proin eget mauris tempor, ultrices leo id, mollis augue. Quisque ligula odio, consequat ac tellus interdum, molestie feugiat turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam tincidunt luctus tellus tempor dictum. Nam malesuada sapien sed porttitor pharetra. Cras sed vehicula mi, quis feugiat sapien. Etiam accumsan nisi justo, nec consectetur lacus tincidunt id. Donec ac aliquet nulla, sit amet ultrices elit. Cras eu malesuada dui.</string>
+</resources>
